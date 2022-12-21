@@ -9536,6 +9536,12 @@
     githubId = 20026143;
     name = "Katona László";
   };
+  Mountainerd = {
+    email = "jwblair@gmail.com";
+    github = "mountainerd";
+    githubid = "3386955";
+    name = "Joshua Blair";
+  };
   MP2E = {
     email = "MP2E@archlinux.us";
     github = "MP2E";
